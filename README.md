@@ -19,4 +19,3 @@ The program will play the specified MIDI file using the provided custom soundfon
 ### This project is licensed under the [MIT License](LICENSE).
 
 Feel free to explore, modify, and integrate the code into your projects!
-If you find this code useful or use it in your project, I'd love to hear about it.
