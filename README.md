@@ -6,7 +6,7 @@ A straightforward Java application for playing MIDI files using custom soundfont
 
  
 
- 1. Provide Soundfont and MIDI Files: Place your custom soundfont and MIDI file in the same directory as the SoundSynth.java file.
+ 1. Provide Soundfont and MIDI Files: Place your custom soundfont and MIDI file in the same directory as the javaSimpleSynth.java file.
 
  2. Replace Placeholder Paths: Open `javaSimpleSynth.java` and replace the following placeholders with the actual filenames of your soundfont and MIDI file: "`path_to_soundfont.sf2`" and "`path_to_midi_file.mid`".
 
