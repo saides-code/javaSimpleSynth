@@ -4,11 +4,9 @@ A straightforward Java application for playing MIDI files using custom soundfont
 
 ## Getting Started:
 
- 
+ 1. Provide Soundfont and MIDI Files: Place your custom soundfont and MIDI file in the same directory as the `javaSimpleSynth.java` file.
 
- 1. Provide Soundfont and MIDI Files: Place your custom soundfont and MIDI file in the same directory as the SoundSynth.java file.
-
- 2. Replace Placeholder Paths: Open `javaSimpleSynth.java` and replace the following placeholders with the actual filenames of your soundfont and MIDI file: "`path_to_soundfont.sf2`" and "`path_to_midi_file.mid`".
+ 2. Replace Placeholder Paths: Open `javaSimpleSynth.java` and replace the following placeholders with the actual filenames of your soundfont and MIDI file: `path_to_soundfont.sf2` and `path_to_midi_file.mid`.
 
 **Enjoy!**
 
@@ -18,7 +16,6 @@ The program will play the specified MIDI file using the provided custom soundfon
 
 ## License
 
-### This project is licensed under the [MIT License](LICENSE).
+**This project is licensed under the [MIT License](LICENSE).**
 
 Feel free to explore, modify, and integrate the code into your projects!
-If you find this code useful or use it in your project, I'd love to hear about it. Drop me a message or create an issue in this repository to let me know how you're using javaSimpleSynth. Sharing your experiences can help others discover the potential of this simple MIDI player.
